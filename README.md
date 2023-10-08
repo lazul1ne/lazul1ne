@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Emilia 👋
 
-<!--
-**DefinedCoding/DefinedCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Aspiring+Developer;Project+Manager;Problem+Solver" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+## &#x1F4C8; GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DefinedCoding&show_icons=true&line_height=27&count_private=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DefinedCoding&theme=radical))](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) -->
+
+
+## 🚀 Recent Projects
+<!-- [Project Name](https://github.com/yourusername/project-repo) - A brief description of the project.
+- [Another Project](https://github.com/yourusername/another-project) - Short project description. -->
+- 🛠️ I'm currently working on uploading my projects to GitHub, stay tuned for more!
+
+## 📫 Let's Connect
+- Discord: [@DefinedCoding](https://discordapp.com/users/640643153015341057)
+
+## ⚡ Fun Facts
+- 🔭 I'm currently working on: Improving my coding skills.
+- 🌱 I'm currently learning: P.
+- 🎮 Hobbies: Coding, gaming, and drawing.
