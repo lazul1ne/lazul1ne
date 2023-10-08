@@ -22,5 +22,5 @@
 
 ## ⚡ Fun Facts
 - 🔭 I'm currently working on: Improving my coding skills.
-- 🌱 I'm currently learning: P.
+- 🌱 I'm currently learning: Python and Pygame.
 - 🎮 Hobbies: Coding, gaming, and drawing.
