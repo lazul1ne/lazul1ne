@@ -18,7 +18,7 @@
 - 🛠️ I'm currently working on uploading my projects to GitHub, stay tuned for more!
 
 ## 📫 Let's Connect
-- Discord: [@DefinedCoding](https://discordapp.com/users/640643153015341057)
+- Discord: [@DefinedCoding](https://discordapp.com/users/768539632677027853)
 
 ## ⚡ Fun Facts
 - 🔭 I'm currently working on: Improving my coding skills.
