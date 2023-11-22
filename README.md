@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Aspiring+Developer;Project+Manager;Problem+Solver" alt="Typing SVG" /></a>
 
 ## &#x1F4C8; GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DefinedCoding&show_icons=true&line_height=27&count_private=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DefinedCoding&theme=radical))](https://git.io/streak-stats)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsMeEmilia&show_icons=true&line_height=27&count_private=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsMeEmilia&theme=radical))](https://git.io/streak-stats)
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
