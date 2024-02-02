@@ -19,7 +19,7 @@
 - 🛠️ I'm currently working on transfering my projects to this account.
 
 ## 📫 Let's Connect
-- Discord: [@DefinedCoding](https://discordapp.com/users/459393177602883595)
+- Discord: [@Lazul1ne](https://discordapp.com/users/459393177602883595)
 
 ## ⚡ Fun Facts
 - 🔭 I'm currently working on: Improving my coding skills.
