@@ -14,14 +14,16 @@
 
 
 ## 🚀 Recent Projects
-<!-- [Project Name](https://github.com/yourusername/project-repo) - A brief description of the project.
-- [Another Project](https://github.com/yourusername/another-project) - Short project description. -->
-- 🛠️ I'm currently working on transfering my projects to this account.
+[Enhanced Turtle Items](https://github.com/lazul1ne/enhanced-turtle-items) - A mod for minecraft I made to learn Java with an actual project ("A Minecraft mod that adds enhanced turtle items in the style of netherite tools"). 
+
+<!-- [Another Project](https://github.com/yourusername/another-project) - Short project description.  -->
+- 🛠️ I'm currently also working on transferring some of my other projects to github.
 
 ## 📫 Let's Connect
 - Discord: [@Lazul1ne](https://discordapp.com/users/459393177602883595)
+- Email (slow responses): Emilia@lazuline.dev
 
 ## ⚡ Fun Facts
-- 🔭 I'm currently working on: Improving my coding skills.
-- 🌱 I'm currently learning: Java, Python, and Pygame.
-- 🎮 Hobbies: Coding, gaming, and drawing.
+- 🔭 I'm currently working on: Improving my coding skills and finishing projects.
+- 🌱 I'm currently learning: Java
+- 🎮 Hobbies: Coding, reading, gaming, and drawing.
