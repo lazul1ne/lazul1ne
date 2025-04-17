@@ -21,7 +21,7 @@
 
 ## 📫 Let's Connect
 - Discord: [@Lazul1ne](https://discordapp.com/users/459393177602883595)
-- Email (slow responses): Emilia@lazuline.dev
+- Email (slow responses): Emilia@lazuline.xyz
 
 ## ⚡ Fun Facts
 - 🔭 I'm currently working on: Improving my coding skills and finishing projects.
